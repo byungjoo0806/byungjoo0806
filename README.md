@@ -39,13 +39,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&layout=compact" align="center" style="width: 50%" />
-<!--   <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
-      </td>
-    </tr>
-  </table> -->
 </p>
 
 <div align="center">
