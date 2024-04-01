@@ -43,18 +43,18 @@ Here are some ideas to get you started:
 
 <p align="center"><b>📈 GiHub Stats</b></p>
 <p align="center">
+    <div align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
+    </div>
+<!--
   <table>
     <tr>
-        <!--
-      <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=byungjoo0806&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
-      </td>
-        -->
-      <td align="top" width="50%">
+      <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
       </td>
     </tr>
   </table>
+-->
 </p>
 
 <div align=center>
