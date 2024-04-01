@@ -34,16 +34,18 @@ Here are some ideas to get you started:
 <br />
 
 <p align="center">
-  <table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
+<!--   <table>
     <tr>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
       </td>
     </tr>
-  </table>
+  </table> -->
 </p>
 
-
+<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyungjoo0806&count_bg=%23000000&title_bg=%23868686&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
 
 <br />
