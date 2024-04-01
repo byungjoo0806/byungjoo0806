@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'Welcome to BJ Park'&#125&#59&fontSize=50&animation=blinking" />
-  </a>
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=🙋‍♀️)
 <br />
 
 <p align="center"><b>🛠 Tech Stack</b></p>
@@ -33,20 +31,7 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<!--
-<p align="center"><b>📫 Blog</b></p>
 <p align="center">
-  <a href="https://velog.io/@younoah"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zeebeck"/></a>&nbsp
-</p>
-<br />
--->
-
-<p align="center"><b>📈 GiHub Stats</b></p>
-<p align="center">
-    <div align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
-    </div>
-<!--
   <table>
     <tr>
       <td align="center" width="50%">
@@ -54,7 +39,6 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </table>
--->
 </p>
 
 <div align=center>
