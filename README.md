@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 <br />
 
 <p align="center">
-  <div align="center" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
-  </div>
-  <!--
   <table>
     <tr>
       <td align="center" width="50%">
@@ -45,8 +41,8 @@ Here are some ideas to get you started:
       </td>
     </tr>
   </table>
-  -->
 </p>
+
 <!--
 <div align=center>
   <a href="https://hits.seeyoufarm.com">
