@@ -45,11 +45,13 @@ Here are some ideas to get you started:
 <p align="center">
   <table>
     <tr>
+        <!--
       <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=younoah&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=byungjoo0806&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
       </td>
+        -->
       <td align="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younoah&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
       </td>
     </tr>
   </table>
@@ -57,7 +59,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounoah&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyungjoo0806&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 </div>
 <br />
