@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=🙋‍♀️)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=Welcome%20to%20BJ%20Park)
 <br />
 
 <p align="center"><b>Tech Stack</b></p>
@@ -34,13 +34,18 @@ Here are some ideas to get you started:
 <br />
 
 <p align="center">
+  <div align="center" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
+  </div>
+  <!--
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
       </td>
     </tr>
   </table>
+  -->
 </p>
 <!--
 <div align=center>
