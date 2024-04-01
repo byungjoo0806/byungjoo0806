@@ -34,9 +34,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
 </p>
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&hide=jupyter%20notebook&layout=compact&hide_border=true" align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byungjoo0806&layout=compact" align="center" style="width: 50%" />
 <!--   <table>
     <tr>
       <td align="center" width="50%">
